@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhavaldoriya.github.io/sitemap-index.xml
